@@ -67693,20 +67693,20 @@ return A.iH(b,s,s,A.fG(s,12*$.a2().gdg(),s,3,s),s,s)},
 L3(a,b,c){var s=null
 return A.iH(b,s,s,A.fG(c,10*$.a2().gdg(),s,3,s),s,s)},
 Ll(a,b,c){var s=null
-return A.iH(a,s,s,A.fG(s,50*$.a2().gdg(),b,1,s),c,s)},
+return A.iH(a,s,s,A.fG(s,45*$.a2().gdg(),b,1,s),c,s)},
 a4O(a,b){return this.Ll(a,null,b)},
 pf(a,b,c,d,e){var s=null
-return A.iH(a,s,s,A.fG(b,35*$.a2().gdg(),c,d,s),e,s)},
+return A.iH(a,s,s,A.fG(b,40*$.a2().gdg(),c,d,s),e,s)},
 a4L(a,b){return this.pf(a,null,null,1,b)},
 a4M(a,b,c){return this.pf(a,b,c,1,null)},
 a4K(a){return this.pf(a,null,null,1,null)},
 a4N(a,b,c){return this.pf(a,null,b,1,c)},
 Ak(a,b){return this.pf(a,null,null,b,null)},
 Ai(a,b){var s=null
-return A.iH(a,s,s,A.fG(s,30*$.a2().gdg(),s,1,s),b,s)},
+return A.iH(a,s,s,A.fG(s,35*$.a2().gdg(),s,1,s),b,s)},
 pe(a){return this.Ai(a,null)},
 Lk(a,b){var s=null
-return A.iH(a,s,s,A.fG(b,27*$.a2().gdg(),s,1,s),s,s)},
+return A.iH(a,s,s,A.fG(b,32*$.a2().gdg(),s,1,s),s,s)},
 Aj(a){return this.Lk(a,null)}}
 A.ahv.prototype={
 $0(){return A.aoZ()},
@@ -67798,7 +67798,7 @@ A.Ee.prototype={
 G(a){var s=A.a9(a).fr
 return A.amY(A.n(102,s.gh(s)>>>16&255,s.gh(s)>>>8&255,s.gh(s)&255),$.a2().gan())}}
 A.Fq.prototype={
-G(a){var s=null,r="Designed & Built by Irwan Chandra with Flutter.",q=A.ef(a).di("DESKTOP"),p=A.a9(a).id,o=q?30*$.a2().gan():50*$.a2().gan()
+G(a){var s=null,r="Designed & Built by Irwan Chandra with Flutter.",q=A.ef(a).di("DESKTOP"),p=A.a9(a).id,o=q?40*$.a2().gan():50*$.a2().gan()
 return A.f9(B.lu,q?$.dD().Lk(r,p):$.dD().L3(0,r,p),B.z,s,s,s,s,o,s,s,s,s,s)}}
 A.FY.prototype={
 G(a){var s,r,q,p,o,n,m,l,k,j=null,i="Hi, my name is",h="Irwan Chandra.",g="I build Android and iOS app with Flutter."
@@ -67819,7 +67819,7 @@ n=A.amH(B.lA,100*Math.min(m/l.a,n.gan()))
 l=A.aJ(j,20*$.a2().gan(),j)
 m=$.dD()
 k=t.p
-return new A.cS(new A.aY(100*(r/s.a),30*q,100*(o/p.a),0),A.dl(A.a([n,l,m.Ai(i,B.bt),m.Ll(h,B.dZ,B.bt),m.a4N(g,B.D,B.bt),A.aJ(j,10*$.a2().gan(),j),A.o8(A.a([m.Ai("I'm a senior mobile engineer based in Jakarta, Indonesia specializing in\nbuilding hybrid mobile applications.",B.bt)],k),B.bW),A.aJ(j,20*$.a2().gan(),j),B.vB],k),B.P,B.O),j)}s=$.a2().gan()
+return new A.cS(new A.aY(100*(r/s.a),50*q,100*(o/p.a),0),A.dl(A.a([n,l,m.Ai(i,B.bt),m.Ll(h,B.dZ,B.bt),m.a4N(g,B.D,B.bt),A.aJ(j,10*$.a2().gan(),j),A.o8(A.a([m.Ai("I'm a senior mobile engineer based in Jakarta, Indonesia specializing in\nbuilding hybrid mobile applications.",B.bt)],k),B.bW),A.aJ(j,20*$.a2().gan(),j),B.vB],k),B.P,B.O),j)}s=$.a2().gan()
 r=$.a2()
 q=r.gaE()
 r=r.a
@@ -67912,7 +67912,7 @@ r=s.gaE()
 s=s.a
 s===$&&A.b()
 s=100*(r/s.a)
-return new A.cS(new A.aY(s,0,s,0),A.dl(A.a([B.vV,B.vx,A.aJ(q,25*$.a2().gan(),q),B.vy],t.p),B.P,B.O),q)}return A.dl(A.a([B.vV,A.aJ(q,50*$.a2().gan(),q),B.vx,A.aJ(q,150*$.a2().gan(),q),B.vy],t.p),B.b4,B.O)}}
+return new A.cS(new A.aY(s,0,s,0),A.dl(A.a([B.vV,B.vx,A.aJ(q,40*$.a2().gan(),q),B.vy],t.p),B.P,B.O),q)}return A.dl(A.a([B.vV,A.aJ(q,50*$.a2().gan(),q),B.vx,A.aJ(q,150*$.a2().gan(),q),B.vy],t.p),B.b4,B.O)}}
 A.Iv.prototype={
 G(a){var s,r,q=null
 if(A.ef(a).di("DESKTOP"))return new A.Cb("My Resume",new A.a4a(),q)
@@ -67940,7 +67940,7 @@ p=$.a2()
 o=p.gaE()
 p=p.a
 p===$&&A.b()
-return A.aJ(A.fm(A.a([B.dS,r,q,A.aJ(n,n,20*(o/p.a)),B.dS],t.p),B.P,B.eq,B.ab),60*s,n)}s=$.a2()
+return A.aJ(A.fm(A.a([B.dS,r,q,A.aJ(n,n,20*(o/p.a)),B.dS],t.p),B.P,B.eq,B.ab),80*s,n)}s=$.a2()
 r=s.gaE()
 s=s.a
 s===$&&A.b()
@@ -67981,7 +67981,8 @@ $0(){return A.tP(this.a.d)},
 $S:0}
 A.Jm.prototype={
 G(a){var s,r,q,p,o,n,m,l,k=null
-if(A.ef(a).di("DESKTOP")){s=$.a2().gan()
+if(A.ef(a).di("DESKTOP")){s=$.a2()
+s=80*s.gan()
 r=$.a2()
 q=r.gaE()
 r=r.a
@@ -68006,7 +68007,7 @@ n=$.a2()
 m=n.gaE()
 n=n.a
 n===$&&A.b()
-return A.aJ(A.fm(A.a([B.dS,r,B.wB,q,B.wD,p,B.wC,o,B.wE,A.aJ(k,k,5*(m/n.a)),B.dS],t.p),B.P,B.eq,B.ab),60*s,k)}s=$.a2()
+return A.aJ(A.fm(A.a([B.dS,r,B.wB,q,B.wD,p,B.wC,o,B.wE,A.aJ(k,k,5*(m/n.a)),B.dS],t.p),B.P,B.eq,B.ab),s,k)}s=$.a2()
 r=s.gaE()
 s=s.a
 s===$&&A.b()
@@ -68059,7 +68060,7 @@ $S:28}
 A.o7.prototype={
 SX(a){var s,r=this,q=null
 if(A.ef(a).di("DESKTOP")){s=$.dD()
-return A.a([s.Aj(r.d),s.Aj(" \u2022 "),A.iH(r.e,q,q,A.fG(A.a9(a).db,25*$.a2().gdg(),q,1,q),q,q)],t.p)}s=$.dD()
+return A.a([s.Aj(r.d),s.Aj(" \u2022 "),A.iH(r.e,q,q,A.fG(A.a9(a).db,30*$.a2().gdg(),q,1,q),q,q)],t.p)}s=$.dD()
 return A.a([s.yK(0,r.d),s.yK(0," \u2022 "),s.L3(0,r.e,A.a9(a).db)],t.p)},
 G(a){var s,r,q,p,o=null,n=A.ef(a).di("DESKTOP"),m=$.a2(),l=m.gaE(),k=m.a
 k===$&&A.b()
